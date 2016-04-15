@@ -10,7 +10,8 @@ A request is valid for 30 seconds and all requests are cached for 60 seconds. Th
 When a request path is invalid, Wowza Streaming Engine's default response is to pass the request to the default HTTP Provider to see if the path can be matched there. The default HTTP Provider would then return a 200 response. The configuration described in this article replaces the default HTTP Provider with a custom one that returns a 403 response.
 
 ## More resources
-[Auth: Edge to Origin (Chapter 11 - Akamai Edge Server Configuration Guide)]("https://control.akamai.com/dl/customers/other/EDGESERV/ESConfigGuide-Customer.pdf#G11.1119545") (**Note:** You must have an Akamai account to access or download the guide from Akamai.)
+[Auth: Edge to Origin, Chapter 11 - Akamai Edge Server Configuration Guide]("https://control.akamai.com/dl/customers/other/EDGESERV/ESConfigGuide-Customer.pdf#G11.1119545") 
+(**Note:** You must have an Akamai account to access or download the guide from Akamai.)
 
 [Wowza Streaming Engine Server-Side API Reference](https://www.wowza.com/resources/WowzaStreamingEngine_ServerSideAPI.pdf)
 
