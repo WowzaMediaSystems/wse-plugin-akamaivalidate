@@ -21,3 +21,5 @@ To use the compiled version of this module, see [How to validate Akamai server c
 
 ## License
 This code is distributed under the [Wowza Public License](https://github.com/WowzaMediaSystems/wse-plugin-akamaivalidate/blob/master/LICENSE.txt).
+
+![alt tag](http://wowzalogs.com/stats/githubimage.php?plugin=wse-plugin-akamaivalidate)
